@@ -6,9 +6,9 @@ The script ensures that only new, non-duplicated entries are added to the report
 
 **HOW TO USE**:
 
-Save both files Financial report.xlsm and Ledger file.xlsx in the same folder.
+Save both files — Financial report.xlsm and Ledger file.xlsx — in the same folder. These files must retain their original names.
 
-Open the file Financial report.xlsm and click the UPDATE REPORT button located in cell B3.
+Open the file Financial report.xlsm and click the UPDATE REPORT button located in cell B3. Macros must be enabled.
 
 For more details or to review the code logic, open the Visual Basic Editor (Alt + F11) and navigate to the module named FR_Update.
 
