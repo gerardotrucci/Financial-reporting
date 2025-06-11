@@ -1,3 +1,5 @@
+## **ABOUT THIS PROJECT**
+
 **PURPOSE**:
 
 This VBA code was developed to automate the integration of new expense entries from a ledger file extracted from my ERP system into a specific financial report format. Reporting is carried out monthly, and due to the specific information requirements of my organisation’s reporting template—significantly different from the raw extract provided by the ERP system—manual adaptation was previously required.
