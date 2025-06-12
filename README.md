@@ -8,7 +8,7 @@ The script ensures that only new, non-duplicated entries are added to the report
 
 **HOW TO USE**:
 
-Save both files — Financial report.xlsm and Ledger file.xlsx — in the same folder. These files must retain their original names.
+Save both files — Financial report.xlsm and Ledger file.xlsx — in the same folder (avoid Downloads folder, since it might be seen as un untrusted location by Microsoft Excel, and this might prevent enabling the Macros from the file). These files must retain their original names.
 
 Open the file Financial report.xlsm and click the UPDATE REPORT button located in cell B3. Macros must be enabled.
 
