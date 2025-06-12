@@ -2,13 +2,13 @@
 
 **PURPOSE**:
 
-This VBA code was developed to automate the integration of new expense entries from a ledger file extracted from my ERP system into a specific financial report format. Reporting is carried out monthly, and due to the specific information requirements of my organisation’s reporting template—significantly different from the raw extract provided by the ERP system—manual adaptation was previously required.
+This VBA code was developed to automate the integration of new expense entries from a ledger file extracted from my ERP system into a specific financial report format. Reporting is carried out monthly, and due to the specific formats and information requirements of my organisation’s reporting template—significantly different from the raw extract provided by the ERP system—manual adaptation was previously required.
 
 The script ensures that only new, non-duplicated entries are added to the report, significantly reducing the risk of manual errors and improving efficiency in periodic financial updates. With the click of a button, it automates an otherwise repetitive and redundant process.
 
 **HOW TO USE**:
 
-Save both files — Financial report.xlsm and Ledger file.xlsx — in the same folder (avoid Downloads folder, since it might be seen as un untrusted location by Microsoft Excel, and this might prevent enabling the Macros from the file). These files must retain their original names.
+Save both files — Financial report.xlsm and Ledger file.xlsx — in the same folder (avoid Downloads folder, since it might be seen as an untrusted location by Microsoft Excel, and this might prevent enabling the Macros from the file). These files must retain their original names.
 
 Open the file Financial report.xlsm and click the UPDATE REPORT button located in cell B3. Macros must be enabled.
 
